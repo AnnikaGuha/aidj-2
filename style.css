@@ -1,0 +1,26 @@
+.note{
+    width: 100%;
+}
+#head{
+    font-size: 20px;
+}
+.dj{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    float: right;
+}
+#speed{
+    float:left
+}
+.play_btn{
+    width: 130px;
+    height: 70px;
+font-size: 20px;
+}
+canvas{
+    margin-top: 100px;
+    border:  5px solid white;
+    
+}
